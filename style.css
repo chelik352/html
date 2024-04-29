@@ -1,6 +1,6 @@
 body{
   background-color:#4E4E4E ;
-  font-family: Monsterrat;
+  font-family: Montserrat;
 }
 .bc{
   width: 430px;
@@ -25,7 +25,7 @@ body{
 }
 .uname{
   text-align: center;
-  margin-top: 15px;
+  margin-top: 10px;
   color: white;
   font-size: 14px;
   font-weight: 500;
@@ -67,7 +67,7 @@ margin-top: 10px;
   color: white;
   font-size: 16px;
   font-weight: 600;
-  margin-left: 90px;
+  margin-left: 40px;
  margin-top: 22px;
 }
 .setting{
@@ -94,19 +94,18 @@ margin-top: 10px;
   margin-left: 10px;
   margin-top: 10px;
 }
-.text1{
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 90px;
- margin-top: 22px;
+
+.text12{
+  Width:9.65px;
+  Height: 14.06px;
+  margin-left: 100px;
+  margin-top: 25px;
 }
 .text11{
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 140px;
- margin-top: 22px;
+  Width:9.65px;
+  Height: 14.06px;
+  margin-left: 160px;
+  margin-top: 25px;
 }
 .support{
   display: flex;
@@ -132,20 +131,8 @@ margin-top: 10px;
   margin-left: 10px;
   margin-top: 10px;
 }
-.text12{
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 140px;
- margin-top: 22px;
-}
-.text2{
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 90px;
- margin-top: 22px;
-}
+
+
 .sign{
   display: flex;
   width: 364px;
@@ -170,23 +157,12 @@ margin-top: 10px;
   margin-left: 10px;
   margin-top: 10px;
 }
-.text3{
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 90px;
- margin-top: 22px;
-}
-.text13{
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 140px;
- margin-top: 22px;
-}
+
+
 .fimg{
-  width: 427px;
-  height: 48px;
+  width: 40px;
+  height: 40px;
+  margin-left: 50px;
 }
 .footer{
   margin-top: 240px;
@@ -197,6 +173,13 @@ margin-top: 10px;
   background-color: #BAFFD8;
   border-radius: 10px;
   margin-top: 100px;
+}
+.cyan{
+  width: 32px;
+  height: 3px;
+  background-color: #BAFFD8;
+  border-radius: 10px ;
+  margin-left:335px;
 }
 
 
