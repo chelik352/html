@@ -36,13 +36,13 @@ body{
   flex-direction: column;
   
 }
-.profile{
+.icons{
 display: flex;
 width: 364px;
 height: 60px;
 background-color: #1D1D1D;
 border-radius: 14px;
- margin-top: 50px;
+ margin-top: 30px;
 flex-direction: row;
 margin-left: 25px;
   
@@ -70,16 +70,7 @@ margin-top: 10px;
   margin-left: 40px;
  margin-top: 22px;
 }
-.setting{
-  display: flex;
-  width: 364px;
-  height: 60px;
-  background-color: #1D1D1D;
-  border-radius: 14px;
-   margin-top: 30px;
-  flex-direction: row;
-  margin-left: 25px;
-}
+
 .gearb{
   width: 42.57px;
   height: 40px;
@@ -100,23 +91,16 @@ margin-top: 10px;
   Height: 14.06px;
   margin-left: 100px;
   margin-top: 25px;
+  
 }
 .text11{
   Width:9.65px;
   Height: 14.06px;
   margin-left: 160px;
   margin-top: 25px;
+  justify-content: right;
 }
-.support{
-  display: flex;
-  width: 364px;
-  height: 60px;
-  background-color: #1D1D1D;
-  border-radius: 14px;
-   margin-top: 30px;
-  flex-direction: row;
-  margin-left: 25px;
-}
+
 .headb{
   width: 42.57px;
   height: 40px;
@@ -133,16 +117,7 @@ margin-top: 10px;
 }
 
 
-.sign{
-  display: flex;
-  width: 364px;
-  height: 60px;
-  background-color: #1D1D1D;
-  border-radius: 14px;
-   margin-top: 30px;
-  flex-direction: row;
-  margin-left: 25px;
-}
+
 .doorb{
   width: 42.57px;
   height: 40px;
