@@ -1,131 +1,106 @@
-body{
+body {
   background-color:#4E4E4E ;
   font-family: Montserrat;
 }
-.bc{
+.bc {
   width: 430px;
   height: 932px;
   background-color: #10100E;
   border-radius: 24px;
   margin-left: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
-.elon{
+.elon {
   width:85.38px ;
   height:80px ;
   margin-top:69px ;
-  margin-left: 168.81px;
- 
 }
-.name{
+.name {
   margin-top: 30px;
- text-align: center;
+  text-align: center;
   color: white;
   font-weight: 600;
   font-size: 18px;
 }
-.uname{
+.uname {
   text-align: center;
   margin-top: 10px;
   color: white;
   font-size: 14px;
   font-weight: 500;
 }
-.something{
+.something {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  
 }
-.icons{
-display: flex;
-width: 364px;
-height: 60px;
-background-color: #1D1D1D;
-border-radius: 14px;
- margin-top: 30px;
-flex-direction: row;
-margin-left: 25px;
-  
+.icons {
+  display: flex;
+  width: 364px;
+  height: 60px;
+  background-color: #1D1D1D;
+  border-radius: 14px;
+  margin-top: 20px;
+  flex-direction: row;
 }
 
-
-.avatarb{
-  width: 42.57px;
-  height: 40px;
-  background-color: #9280FD;
-  border-radius: 16px;
-  margin-top: 10px;
-  margin-left: 15px;
+.s1 {
+  width: 16.38px;
+  height: 20px;
 }
-.avatari{
-width: 16.38px;
-height: 20px;
-margin-left: 13px;
-margin-top: 10px;
-}
-.text{
+.text {
   color: white;
   font-size: 16px;
   font-weight: 600;
   margin-left: 40px;
- margin-top: 22px;
+  margin-top: 22px;
 }
 
-.gearb{
-  width: 42.57px;
-  height: 40px;
-  background-color: #D3F570;
-  border-radius: 16px;
-  margin-top: 10px;
-  margin-left: 15px;
-}
-.geari{
-  width: 21.29px;
-  height: 20px;
-  margin-left: 10px;
-  margin-top: 10px;
-}
-
-.text12{
+.text12 {
   Width:9.65px;
   Height: 14.06px;
   margin-left: 100px;
   margin-top: 25px;
-  
 }
-.text11{
+.text11 {
   Width:9.65px;
   Height: 14.06px;
   margin-left: 160px;
   margin-top: 25px;
 }
 
-.purple{
+.purple {
   width: 42.57px;
   height: 40px;
   background-color: #9280FD;
   border-radius: 16px;
   margin-top: 10px;
   margin-left: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.s1{
+.s1 {
   width: 21.29px;
   height: 20px;
-  margin-left: 10px;
-  margin-top: 10px;
 }
 
 
 
-.green{
+.green {
   width: 42.57px;
   height: 40px;
   background-color: #D3F570;
   border-radius: 16px;
   margin-top: 10px;
   margin-left: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.doori{
+.doori {
   width: 21.29px;
   height: 20px;
   margin-left: 10px;
@@ -133,27 +108,51 @@ margin-top: 10px;
 }
 
 
-.fimg{
+.fimg {
   width: 28px;
   height: 28px;
-  margin-left: 60px;
 }
-.footer{
+.footer {
   margin-top: 240px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
-.small{
+.small {
   width: 32px;
   height: 3px;
   background-color: #BAFFD8;
   border-radius: 10px;
   margin-top: 100px;
 }
-.cyan{
+.cyan {
   width: 32px;
   height: 3px;
   background-color: #BAFFD8;
   border-radius: 10px ;
   margin-left:335px;
 }
-
+.something {
+  align-items: center;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fimg-container {
+  width: 90px;
+  height: 48px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.fimg-container:hover {
+  background-color: #9280FD;
+  border-radius: 10px;
+}
+.icons:hover {
+  background-color: grey
+}
 
